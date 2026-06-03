@@ -1,0 +1,46 @@
+variable:
+is a container which can hold the value
+
+store:
+
+data type:
+variable type: 
+memory:
+number :100 -> 2 bytes
+
+8460224296 --> min 4 bytes ->dec 2 bytes
+	                     dec 8 byttes
+
+
+------------------------------->
+variable naming rules:
+no1 studentname user salary pers
+
+1)variable name must not contain any space: 
+   valid:studentName
+        * student name
+
+2)variable name must not starts with Number:
+      valid: userId
+           * 1user #error
+3)variable name must not contain any special char expt(_): 	
+	valid : userSalary, user_salary
+		user$salary
+4)variable name must be unique within programme:
+	valie : salary,
+	      :salary error
+5)variable name must not match with any keyword:
+		:marks:
+		void,for,
+	       
+6)2)variable name must not starts with Cap:
+		cityName:
+		CityName:error
+
+
+
+
+
+
+
+   
