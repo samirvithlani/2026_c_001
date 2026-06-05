@@ -39,6 +39,65 @@ no1 studentname user salary pers
 
 
 
+									DATA TYPE:
+
+						BASIC TYPE         Derived Type      User defined types
+						 int                  array              union
+						float                 pointer            structure
+						double                function            enum
+						char
+						bool
+						void
+
+
+bits 8
+byte 1  1024 || 1000
+kb   1  1024
+mb   1  1024
+gb   1  1024
+tb   1
+
+
+
+2 bytes == 16
+
+
+ 16-1 =15
+2
+
+ 15
+2
+
+
+-32768 0 32767
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
