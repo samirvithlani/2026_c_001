@@ -1,0 +1,7 @@
+08-06-2026
+task1: swap 2 nos without using 3rd variable dont use +,- 
+hint: +[*] - [/]
+
+1st task:
+
+wap : find area of circle:

@@ -67,9 +67,51 @@ tb   1
 
  15
 2
-
-
 -32768 0 32767
+
+Operators:
+Operators are the special symbols which can use to perfom any opearations on operand
+
+Type of operators:
+unery operators: it required only one operand, eg: ++,--
+binery operators: it required  min 2 operand,
+ternery operators: it required  min 3 operand
+
+type of operators:
+1)arithmetic operators: +,-,*,/,%,++,--
+2)asignment operators : = , +=,-=,*=,/=
+3)relational operators: >,<,>=,<=,==,!=
+4)logical operators: &&,||,!
+5)bitwise operators:
+
+
+
+asignment operators: =
+it is use for assign value from left side to right side variable..
+eg: a = 20
+
+eg: x= 10, y =20
+x = y 
+printf(x)
+shivam
+
+wap:find simple intrest:
+jay ruparel
+
+wap : get salary from  user monhly salary:
+	eg:10000 --> yealry -->cal
+	-->tax : 10% --> net salary
+varuan
+
+-------------------------
+please enter your birth year
+today year: 2025 --> 1  --> 12 moths
+
+varun
+
+
+
+
 
 
 
