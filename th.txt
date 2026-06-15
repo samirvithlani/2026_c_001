@@ -109,6 +109,20 @@ today year: 2025 --> 1  --> 12 moths
 
 varun
 
+decision maing statements:
+
+1)if else
+2)switch case
+3)loops
+
+if(condition){
+	//if body
+}
+else{
+	//else body
+}
+
+
 
 
 
