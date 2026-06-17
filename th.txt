@@ -124,6 +124,21 @@ else{
 
 
 
+//laddder if else
+
+tshirt 28 -->
+
+28 == 28
+if(condition){
+
+}
+if(condition){
+
+}
+else{
+	
+}
+
 
 
 
