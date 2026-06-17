@@ -10,3 +10,22 @@ if else task:
 1)wap to check no is even or odd
 2)wap to check no is divisible by 5 or not
 3)wap to check both no1 and no2 are equal or not
+
+1st task:
+
+wap to get user monthy salary and calulate tax per anum
+10000 * 12  = 1,20,000
+
+
+5,00,000 tax deduct = 15%
+3,50,000 tax deduct = 10 %
+2.50,000 tax deduct = 5%
+less 2,50,000 tax deduct = 2%
+
+output:
+monthy salary = 10000
+yearly salry =  1,20,000
+total tax =   amount
+net sal    = 1,20,00 - tax = 
+
+all data float..

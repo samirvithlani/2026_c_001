@@ -139,6 +139,21 @@ else{
 	
 }
 
+--->elect bill
+300> per unit price = 4
+200 >       ===3
+100 >>  ===  2
+100 --     1
+
+
+total bill display
+
+
+
+
+
+
+
 
 
 
