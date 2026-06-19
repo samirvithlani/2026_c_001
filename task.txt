@@ -29,3 +29,9 @@ total tax =   amount
 net sal    = 1,20,00 - tax = 
 
 all data float..
+
+nested if else:
+task1:
+
+user  visa :
+indian citizen,income = 500000 >,
