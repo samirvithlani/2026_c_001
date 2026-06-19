@@ -149,6 +149,19 @@ else{
 total bill display
 
 
+if(cond){
+
+	if(cond){
+
+	}else{
+
+	}
+
+}
+else{
+	
+}
+
 
 
 
