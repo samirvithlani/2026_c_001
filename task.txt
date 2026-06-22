@@ -35,3 +35,5 @@ task1:
 
 user  visa :
 indian citizen,income = 500000 >,
+
+get 1 no from user both number should be divisible 5 or 3
