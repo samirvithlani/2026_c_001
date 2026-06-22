@@ -163,6 +163,58 @@ else{
 }
 
 
+nested if else:
+	if(){
+		if(){
+
+		}
+	}else{
+
+	}
+
+logical operators:
+
+multipule condition togather ....
+mall -->gate -->security -->pass ---> theater --> ticket -> movie
+if(sec pass){
+	if(has ticket){
+
+	}
+}
+
+no mall ---> Theater ---> sec check and ticket
+
+
+scahool -->gate --> uniform -->enter --> icard --. class ====> nested if else
+school --> gate -->i card and uniform  ====? logical operators
+
+
+diff bw nested if else <-------> logical op
+if(cond1 and cond2 and cond3 ..){
+
+	message
+}
+else{
+
+}
+
+
+&& ,||, |
+
+if cond1 && cond2
+
+T ----->T  ----->True
+T ----->F_______>FALSE
+F ______________>FALSE
+
+
+school --> white , brown -->
+
+if cond1 || cond2
+
+T ______________>True
+F  ---->T ------> True
+F ----->F_________>FALSE
 
 
 
@@ -180,25 +232,3 @@ else{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
