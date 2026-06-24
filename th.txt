@@ -217,18 +217,14 @@ F  ---->T ------> True
 F ----->F_________>FALSE
 
 
+GOTO:
 
+label:
 
-
-
-
-
-
-
-
-
-
-
-
-
+correctpin = 1234
+enter amount to open bank ac:
+min bal >10000
+chance 3
+ after op ac : please enter your pin
+             : correct pin 2 chances:
 
