@@ -25,7 +25,7 @@ void main()
         scanf("%d",&upin);
         if(upin!=pin){
             pchance--;
-            if(pchance>0){
+            if(pchancle>0){
                 goto start1;
             }
             else{
