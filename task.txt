@@ -37,3 +37,21 @@ user  visa :
 indian citizen,income = 500000 >,
 
 get 1 no from user both number should be divisible 5 or 3
+
+
+
+GAME SIMULATION:
+
+press 1 for hard
+press 2 for med
+press 3 for low
+
+----------------------------
+
+press 1 for solo
+press 2 for duo
+press 3 for squad
+
+-----------------------------
+HOTEL MENU
+
