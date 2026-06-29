@@ -53,5 +53,5 @@ press 2 for duo
 press 3 for squad
 
 -----------------------------
-HOTEL MENU
+HOTEL MENU\
 
