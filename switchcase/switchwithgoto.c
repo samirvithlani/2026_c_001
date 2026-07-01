@@ -18,7 +18,7 @@ void main()
         case 1:
                 printf("\n welcome to Gujrati Menu:");
                 goto start;
-        break;
+         break;       
         case 2:
                 printf("\n Welcome to North Indian Menu :");
                 goto start;

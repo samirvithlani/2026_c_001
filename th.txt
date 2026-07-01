@@ -228,3 +228,15 @@ chance 3
  after op ac : please enter your pin
              : correct pin 2 chances:
 
+<---------------------------------------->
+
+printf("-----------------------------------);
+
+2 type loops:
+1)entry control loops
+	:loop enter condition check
+	1)for loop : start cond end cond..
+	2)while loop
+2)exit control loops
+	:loop exit condition check
+	1)do while loop
