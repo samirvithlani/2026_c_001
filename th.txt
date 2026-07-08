@@ -252,3 +252,14 @@ get no from user and check no is twin or not:
 
 123 1+2+3 = 6
 123 1*2*3 = 6
+
+
+check no is palndrome or no:
+
+121 <--> 121
+11 --> 11
+
+454 --> 454
+99 --> 99
+
+78 --> 87 not
