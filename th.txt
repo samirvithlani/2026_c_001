@@ -240,3 +240,15 @@ printf("-----------------------------------);
 2)exit control loops
 	:loop exit condition check
 	1)do while loop
+
+
+https://docs.google.com/document/d/18zNG4EWm2dzejIFvcf15YOh-xFHGNwpF8JqsvGyayq0/edit?usp=sharing
+https://docs.google.com/document/d/1opoQSSX3g-ymmDfmeMQqZ7RRzloqw7y1sgJtw2WRM6o/edit?usp=sharing
+https://docs.google.com/document/d/1XzlqZ5nl6bVozheON1eNnPdWK__yRw9IX5xLg95ijrY/edit?usp=sharing
+
+
+wap :
+get no from user and check no is twin or not:
+
+123 1+2+3 = 6
+123 1*2*3 = 6
