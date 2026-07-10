@@ -4,8 +4,10 @@ void main()
 {
  
     int no,rem,rev=0;
+    int temp;
     printf("\n enter no :");
     scanf("%d",&no); // 123 --> 321 , 456 --> 654
+    temp = no;
 
     while(no!=0){
 
@@ -22,7 +24,13 @@ void main()
         //45/10  = 4
         //4/10 = 0
 
-
     }
+    if(temp== rev){
+        printf("\n no is palidndrome");
+    }
+    else{
+        printf("\n no is not palindrome");
+    }
+    printf("\n rev =%d",rev);
    
 }

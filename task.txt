@@ -55,3 +55,12 @@ press 3 for squad
 -----------------------------
 HOTEL MENU\
 
+------------------>
+no = 1987
+
+//even digit :1
+//odd digit : 34
+
+//1987 :-> max digit --> 9
+
+7 -->8 compare -->max --> max variable store ---> 9[8-9]==>max variable --> 9 - 1 -->max

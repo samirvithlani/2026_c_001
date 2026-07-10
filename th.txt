@@ -263,3 +263,8 @@ check no is palndrome or no:
 99 --> 99
 
 78 --> 87 not
+
+
+10  15
+20  30
+30
