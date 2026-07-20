@@ -64,3 +64,17 @@ no = 1987
 //1987 :-> max digit --> 9
 
 7 -->8 compare -->max --> max variable store ---> 9[8-9]==>max variable --> 9 - 1 -->max
+
+task1
+
+55555
+4444
+333
+22
+1
+
+54321
+4321
+321
+21
+1
