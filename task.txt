@@ -78,3 +78,29 @@ task1
 321
 21
 1
+
+22/07/2026
+task1:
+
+find no of digits using do while
+eg: 123
+output :3
+
+find sum of digits using do while
+eg: 123
+output : 6 (1+2+3)
+
+find factorial of no:
+eg: 5
+output :120
+
+reverse no using do while:
+eg :345
+output 543
+
+check no is armstrong or not:
+eg: 153
+ 3   3    3
+1  + 5 + 3   = 1 + 125 + 27 = 153
+
+
