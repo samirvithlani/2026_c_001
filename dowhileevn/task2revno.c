@@ -2,9 +2,11 @@
 
 void main()
 {
-    int no,rem,rev =0;
+    int no,rem,rev =0,temp;
     printf("\n enter no :");
     scanf("%d",&no);
+    temp = no; //121
+    //temp  = 121
 
     //123 -->3,2,1
     //123 -> 
@@ -39,5 +41,11 @@ void main()
     }while(no!=0); //12!=0 True //1 != 0 True // 0!=0 false
 
     printf("\n rev =%d",rev);
+    if(rev==temp){
+        printf("\n number is palindrome !!");
+    }
+    else{
+        printf("\n number is not palindrome !!");
+    }
    
 }
