@@ -1,11 +1,15 @@
 #include<stdio.h>
 //123 = 1+2+3 = 6
 
+//123 = 1 *2 * 3 =6
+
+//if sum of digit and mul of digit are same this number called twin numner
+
 
 void main()
 {
 
-    int no,rem,sum=0;
+    int no,rem,sum=0,mul=1;
     printf("\n enter no :");
     scanf("%d",&no);
 
@@ -37,10 +41,19 @@ void main()
     do{
         rem = no % 10;
         sum = sum + rem;
+        mul = mul * rem;
         no = no /10;
     }while(no!=0);
 
     printf("\n sum of digit = %d",sum);
+    printf("\n mul = %d",mul);
+
+    if(sum==mul){
+        printf("\n number is twin number");
+    }
+    else{
+        printf("\n number is NOT twin number");
+    }
 
 
 
