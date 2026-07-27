@@ -109,3 +109,6 @@ no is plaindrome or not:
 121 ---> reverse --> 121
 444 --->reverse --> 444
 45 --> reverse --?54  not
+
+
+
