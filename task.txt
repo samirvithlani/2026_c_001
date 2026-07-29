@@ -110,5 +110,10 @@ no is plaindrome or not:
 444 --->reverse --> 444
 45 --> reverse --?54  not
 
+min find from array
+
+
+take 5 elements from user and print it 
+do sum of all elements:
 
 
