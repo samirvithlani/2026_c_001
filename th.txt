@@ -364,3 +364,11 @@ Array is group of simiar kind element:
 array index store
 index always starts with 0`
 
+
+i have 10 tomato and potato in 1 bag
+put tomato in another bag
+tomato will be consider as even elements
+potato will be consider as odd elements
+
+
+
