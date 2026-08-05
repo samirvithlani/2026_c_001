@@ -48,12 +48,12 @@ void main()
 
         for(j=0;j<4;j++){
 
-            //50>20
+            //a[0] > a[1] 50>20 -true
             if(a[j]>a[j+1]){
 
                 temp = a[j]; //temp = 50
                 a[j] = a[j+1]; //a[0] = 20
-                a[j+1] = temp; //a[1] = 50
+                a[j+1] = temp; //a[1] = temp 50
             }
 
         }
