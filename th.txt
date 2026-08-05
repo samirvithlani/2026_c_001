@@ -372,3 +372,8 @@ potato will be consider as odd elements
 
 
 
+10 11 44 79 85
+
+44 present ??
+
+
