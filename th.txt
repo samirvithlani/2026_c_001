@@ -383,5 +383,37 @@ count=11
 2
 
 
+//[21,11,11,23,45]
+
+//please enter element  to search
+
+//please enter element  to count
+11:
+ -->count 2
 
 
+[21,11,23,45,67]
+
+//please enter element  to search
+
+23
+
+23 found on index 2
+
+99 not found index = -1
+
+
+mon -m =120
+mon -e=200
+mon -m =120
+mon -e=200
+mon -m =120
+mon -e=200
+mon -m =120
+mon -e=200
+mon -m =120
+mon -e=200
+mon -m =120
+mon -e=200
+mon -m =120
+mon -e=200
