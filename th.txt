@@ -417,3 +417,24 @@ mon -m =120
 mon -e=200
 mon -m =120
 mon -e=200
+
+
+
+
+5 stu -->
+
+max= stu[0] == raj =22
+
+raj - 22
+parth > max
+25>22 true --> swap --> max = parth
+parth - 25
+21>25 no ->no swap
+jay = 21
+26>25 -->swap =- max = kunal
+kunal - 26
+23>26 --> no swap
+amit - 23
+
+
+
