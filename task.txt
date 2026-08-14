@@ -116,6 +116,36 @@ min find from array
 take 5 elements from user and print it 
 do sum of all elements:
 
-12/08/2025
+12/08/2026
 evn batch task matrix sum coln wise
 '''
+
+14-08-2026
+mor batch coln wise sum...
+
+1  2  3
+4  5  6
+7  8  9
+--------
+12 15 18
+
+---->
+
+1  2  3
+44 55 66 
+78 95 62
+
+pls enter element to search - 55
+55
+found =0;
+
+1==55 no
+2 == 55 no
+3 == 55 no
+44 ==55 no
+55 == 55 yes -->found =1 break
+
+if else
+
+
+
