@@ -7,9 +7,11 @@ void main()
     for(i=0;i<3;i++){
         //j=0,j=1
         for(j=0;j<3;j++){
+            if(i==0){
                 temp = a[i][j]; //temp=1 , temp =2
                 a[i][j]=a[2][j];//a[0][0]=7 ,a[0][1]=8
                 a[2][j] = temp; //a[2][0]=1 ,a[2][j]=2s
+            }
         }
     }//swap loop over
 

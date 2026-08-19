@@ -509,3 +509,45 @@ swap row
 
 
 swap column
+
+
+
+
+every month 4 week every day sales
+
+[12][4][7]
+
+layer1
+[{1,2,3,4,5,6,7},{1,2,3,4,5,6,7},{1,2,3,4,5,6,7},{1,2,3,4,5,6,7},]
+layer2
+[{1,2,3,4,5,6,7},{1,2,3,4,5,6,7},{1,2,3,4,5,6,7},{1,2,3,4,5,6,7},]
+layer3
+[{1,2,3,4,5,6,7},{1,2,3,4,5,6,7},{1,2,3,4,5,6,7},{1,2,3,4,5,6,7},]
+layer4
+[{1,2,3,4,5,6,7},{1,2,3,4,5,6,7},{1,2,3,4,5,6,7},{1,2,3,4,5,6,7},]
+layer5
+[{1,2,3,4,5,6,7},{1,2,3,4,5,6,7},{1,2,3,4,5,6,7},{1,2,3,4,5,6,7},]
+layer6
+[{1,2,3,4,5,6,7},{1,2,3,4,5,6,7},{1,2,3,4,5,6,7},{1,2,3,4,5,6,7},]
+
+
+if groudn floor has 10 rooms [0,9]
+3 floors every floor has 5 rooms [3][5]
+
+3d aarray
+
+we have 2 building each building has 3 floors and each floor has 5 rooms
+a[2][3][5]
+
+---->
+2 class : 1d arrays
+2 class each class has 10 students : 2d array [2][10]
+2 classes each calss has 10 students every student has 2 subject marks
+[2][10][2]
+
+---->
+10 teams : [0,9]
+10 teams each team has 15 players --> [10][15]
+10 teams each team has 15 players each players has played 2 matchs
+
+[10][15][3]
