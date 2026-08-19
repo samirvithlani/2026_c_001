@@ -147,5 +147,10 @@ found =0;
 
 if else
 
+transpose matix:
+------------------>
+4*3   --> 3*4
+
+
 
 

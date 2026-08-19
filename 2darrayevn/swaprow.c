@@ -1,0 +1,36 @@
+#include<stdio.h>
+
+void main()
+{
+    
+    int a[3][3]={{1,2,3},{4,5,6},{7,8,9}};
+    int i,j,temp;
+    //1 2 3
+    //4 5 6
+    //7 8 9
+
+    for(i=0;i<3;i++){
+        for(j=0;j<3;j++){
+            if(i==0){
+                temp = a[i][j]; //1
+                //a[0][0]=a[2][0]  //7
+                a[i][j] = a[2][j];
+                //a[2][0] = temp = 1
+                a[2][j] = temp;
+            }
+        }
+    }//swap loop
+
+    for(i=0;i<3;i++){
+        for(j=0;j<3;j++){
+            printf(" %d ",a[i][j]);
+        }
+        printf("\n");
+    }
+
+
+
+
+
+    
+}
