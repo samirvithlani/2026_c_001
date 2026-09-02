@@ -7,6 +7,7 @@ void main()
     printf("\n enter name :");
     //scanf("%s",&name);
     gets(name); //--->scanf
+    //fgetc(name);
     printf("\n name = %s",name);
    
 }

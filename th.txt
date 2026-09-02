@@ -646,3 +646,31 @@ asci values
 A -> 65
 a -> 97
 space - 32
+
+
+string store
+
+royal
+
+null char ---> '\0'
+royal'\0'
+
+r = 0
+o =1
+y = 2
+a = 3
+l = 4
+
+name[0]
+name[1]
+name[2]
+name[3]
+name[4]
+
+name[i]
+
+name['\0']
+
+--------------------------->
+
+find no of space in string
