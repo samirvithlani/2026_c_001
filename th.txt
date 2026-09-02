@@ -674,3 +674,46 @@ name['\0']
 --------------------------->
 
 find no of space in string
+
+
+char store:
+char 
+
+a --> bin..
+asci values:
+
+A --? 65
+a --? 97
+
+space ---? 32
+
+india
+0
+1
+2
+3
+4
+
+string rule:
+india'\0'
+
+'\0' --> null char
+
+name = "india"
+name[0]
+name[1]
+name[2]
+name[3]
+name[4]
+name[5] = '\0'
+
+
+
+
+
+
+
+
+
+
+
