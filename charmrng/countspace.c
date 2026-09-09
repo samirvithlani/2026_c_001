@@ -8,8 +8,8 @@ void main()
 
     printf("\n enter name ::");
     gets(name);
-
     printf("\n name = %s",name);
+    //hi this'\0'
     for(i=0;name[i]!='\0';i++){
         if(name[i]==' '){
             count++;
