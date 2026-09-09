@@ -708,8 +708,38 @@ name[4]
 name[5] = '\0'
 
 
+scan string get string from user
+and count vowels
+
+a,e,i,o,u
 
 
+please enter data: string
+java
+please enter char to search:
+a
+
+char is avaialble..
+
+
+scan string from user:
+india
+
+please enter char to find index
+n
+
+output : 1
+
+please enter char to find index
+p
+
+output: -1
+
+
+
+
+count no of vowels
+a e i o u
 
 
 
