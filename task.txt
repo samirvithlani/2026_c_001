@@ -151,6 +151,20 @@ transpose matix:
 ------------------>
 4*3   --> 3*4
 
+<------------------------->
+
+1) string concat
+
+str1 = "hello"
+str2 = "hi"
+
+hellohi
+
+2)reverse print:
+royal
+
+loyar
+
 
 
 
