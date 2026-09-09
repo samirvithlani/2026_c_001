@@ -5,6 +5,7 @@ void main()
     char name[100],copyname[100]="";
     int i,j=0;
     printf("\n enter name :");
+    //scanf("%s",&name); // scanf is not able scan space
     gets(name); // india 0 1 2 3 4
 
     //i=0,j=0
