@@ -742,6 +742,33 @@ count no of vowels
 a e i o u
 
 
+array is storing data in homegenious memory [ continues memory]
+
+100 element --> 100
+0 to 99
+
+india --> 5
+
+5
+india -->0 1 2 3 4 
+
+situtation:
+india
+01234
+
+0 ->i
+1 2
+
+
+
+
+
+
+
+
+
+
+
 
 
 
