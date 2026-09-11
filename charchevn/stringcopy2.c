@@ -26,7 +26,7 @@ void main()
             j++; //1,2,3
         }
     }
-
+    copyname[j]='\0';
     printf("\n name = %s",name);
     printf("\n copyname = %s",copyname);
 
