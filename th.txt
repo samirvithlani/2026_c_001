@@ -758,6 +758,11 @@ india
 
 0 ->i
 1 2
+----------------------->
+duplicate char:
+
+india
+
 
 
 
