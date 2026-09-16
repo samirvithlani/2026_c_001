@@ -764,6 +764,47 @@ duplicate char:
 india
 
 
+<------------->
+toggle case:
+cap -->small
+small -- cap
+
+
+------------------->
+
+india
+dup char found
+
+hi hello
+dup char found
+dup char found
+
+
+india
+i == n
+i == d
+i == i --> break
+
+hi hello
+
+h == i 
+h == h --> dup char found
+
+i = h
+i = e
+i = l
+i = l
+i = o
+
+h = e
+h = l
+h = l
+h = o
+
+l = l -- >dip char found
+
+
+
 
 
 
