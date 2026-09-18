@@ -803,6 +803,23 @@ h = o
 
 l = l -- >dip char found
 
+---->
+check name is palindrome or not 
+
+take a name from user:
+eg:
+royal --> layor --> this is not palindrome
+
+eg:
+madam --> madam --> this is palindrome..
+
+strcpy
+strrev
+strcmp
+
+
+
+
 
 
 
