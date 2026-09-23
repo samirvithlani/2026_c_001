@@ -165,6 +165,21 @@ royal
 
 loyar
 
+------------------>
+get name from user:
+
+check name is palindrome or not:
+eg:
+raj --> jar
+not palindrome
+eg:
+naman --> naman --> palindrome
+
+strcpy
+strrev
+strcmp
+
+
 
 
 
