@@ -871,10 +871,53 @@ if we call any function and function return some value called return type functi
 
 in c lang without return type:
 void funname()
-
-
-
 :dont create function inside function:
+
+
+
+
+-->
+function is collection statements
+
+type of function:
+2 type of functions:
+
+1) pre define function
+2) user define function
+
+:->
+4 type of functions are there
+
+1) without return type without argument
+2) without return type with argument
+3) with return type with argument
+4) with return without argument
+
+without return type without argument
+
+return type: when we call function what function is returning called return type 
+void ---> null
+
+return type function name(){
+
+}
+
+void demo(){
+
+}
+
+use function:
+1)readblity code will increse
+2)maintainblity will increse
+3)reusablity of code
+
+
+bank bal --> 100 line ccode ---> 10 place --> 100 * 10 = 1000
+
+checkbal() ---> 10 time call
+
+
+
 
 
 
