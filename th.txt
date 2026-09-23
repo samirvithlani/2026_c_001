@@ -817,26 +817,64 @@ strcpy
 strrev
 strcmp
 
+<---------------------------->
+
+
+function:
+
+function is block of statements
+
+bank application:
+
+deposit : 100 line
+withdraw : 100 line
+fd  : 200 
+check bal : 90 lines
+locker: 50 line
+ac op : 1200 line
+
+function devide:
+
+user defined function:
+use: reusable of code.
+
+10,000 line code 
+
+-------------------------------- draw
+
+drawline()
+
+
+bank application :
+user name : 100 place --> RAm -> Ram -- > lower case
+
+lower case code : 50 line --> 50 * 100 500 -->
+
+
+converLower() --> 50 linie 1 time
+
+100 place function call..
+
+2 type of function are there :
+1) pre difine function:
+2) user defined function:
+
+---> 4 type of functions ----->
+
+without return type without argument
+without return type with argument
+with return type with argument
+with return type without argument
+
+what is return type:
+if we call any function and function return some value called return type function
+
+in c lang without return type:
+void funname()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+:dont create function inside function:
 
 
 
