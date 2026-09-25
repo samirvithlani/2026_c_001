@@ -34,10 +34,11 @@ void main()
 {
     
     //local variable
-    int no1=10,no2=20, arr[3]={11,22,33};
+    int no1=10,no2=20, arr[3]={11,22,33},arr2[3]={0,0,0};
     //add(10,20);
     add(no1,no2); //calling --->
     findpers(20.50,21);
     printArray(arr);
+    printArray(arr2);
    
 }
