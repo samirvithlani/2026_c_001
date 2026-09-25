@@ -180,6 +180,17 @@ strrev
 strcmp
 
 
+1)task 1
+1)write a function accept string as argument find no of space in string
+2)write a function accept int array as argument find max no from it
+3)write a function accept int array as argument and int no as 2nd argument and find index of that number in array
+    void findindex(int arr[],int no)
+
+    arr = {1,2,3,4,5}
+    no = 2
+    index = 1
+
+
 
 
 

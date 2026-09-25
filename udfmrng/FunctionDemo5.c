@@ -9,6 +9,13 @@ void sumofarray(int a[]){
 
 }
 
+void sum2array(int a[],int b[]){
+    //logic
+}
+void demo(int a,float b,char c){
+
+}
+
 void main()
 {
  
@@ -16,5 +23,8 @@ void main()
     int sales[5]={100,200,300,400,500};
     sumofarray(marks);
     sumofarray(sales);
+    sum2array(marks,sales);
+    
+    
    
 }
