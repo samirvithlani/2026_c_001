@@ -985,7 +985,9 @@ strcpy(src,ddt)
 
 
 
+int len = strlen("name")
 
+int bal = checkbal("ambani")
 
 
 
