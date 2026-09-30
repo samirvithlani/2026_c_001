@@ -945,4 +945,63 @@ create function which will accept int array and return max number from it
 int findMax(int arr[]){}
 
 
+amazone:
+
+order()
+	login:---> username
+cart()
+	login:---> username
+profile()
+	login:---> username
+
+
+
+
+amazone:
+
+order(username)
+	
+cart(username)
+	
+profile(username)
+	
+
+main	
+	login --> raj
+	order(raj)	
+	cart(raj)	
+	profile(raj)	
+
+
+
+
+
+
+strlen(name)
+strlen()
+strcmp(name1,name2)
+strcpy(src,ddt)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
