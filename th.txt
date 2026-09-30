@@ -940,4 +940,9 @@ main
 
 
 
+create function which will accept int array and return max number from it
+
+int findMax(int arr[]){}
+
+
 

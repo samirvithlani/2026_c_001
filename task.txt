@@ -191,6 +191,15 @@ strcmp
     index = 1
 
 
+tasks mrng:
+
+1)create function pass 2 param no1,no2 return bigger one
+2)create function pass 1 param return 1 if no is even or else return 0
+3)create function pass no and return factorial of that number
+4)create function pass 3 param of int kind and return avg of numbers
+5)create function pass single char and return its ascci value of it
+
+
 
 
 
