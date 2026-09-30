@@ -916,16 +916,27 @@ bank bal --> 100 line ccode ---> 10 place --> 100 * 10 = 1000
 
 checkbal() ---> 10 time call
 
+withdraw(ac)
+	
+deposit(ac)
+	
+main
+	login()
+	ac
 
 
 
+add()
+	user
+sub()
+	user
+mul()
+	user
 
-
-
-
-
-
-
+main
+	no1 no2
+	add(no1,no2)			
+	sub(no1,no2)
 
 
 
