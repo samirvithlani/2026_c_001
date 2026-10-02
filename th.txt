@@ -998,8 +998,36 @@ Recursiove Case:
 the part where the function call itself
 
 
+----------------------------------->>
+recursion call stack:
 
 
+void count(int n){
+
+    if(n==0){
+        return;
+    }
+    printf("\n n = %d",n); //10 //9 //8... //1
+    count(n-1); //count(9) count(8) count(1) count(0)
+
+}
+
+count(3)
+count(2)
+count(1)
+count(0)
+
+count(0) return
+count(1) contiune
+count(2) contiune
+count(3) continue
+
+
+
+3
+2
+1
+0
 
 
 
