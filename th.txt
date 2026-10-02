@@ -989,6 +989,13 @@ int len = strlen("name")
 
 int bal = checkbal("ambani")
 
+recursion:
+
+Base Case:
+the condition that stop recursion
+
+Recursiove Case:
+the part where the function call itself
 
 
 
