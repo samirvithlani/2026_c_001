@@ -205,3 +205,15 @@ task 1:
 create a function which takes 2 int argument sp,ep print no bw sp to ep
 task 2:
 create function which takes 1 no as argument and print factorial of that numnber
+
+
+<----------------->
+
+create function which accept no as argument and it will return reverse of that numner
+
+x = revno(234)
+x = 432
+
+
+create function pass array and its size --> return sum of an arrray
+
