@@ -1030,6 +1030,12 @@ count(3) continue
 0
 
 
+recursion :
+function calling it self
+
+case:
+recursion base:
+condition base:
 
 
 
