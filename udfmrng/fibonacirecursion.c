@@ -3,18 +3,21 @@
 //4
 int fibonacci(int n){
 
+    int a,b;
+    printf("\n here...%d",n);
     if(n==0){
         return 0;
     }
     if(n==1){
-        return 1; //1
+        return 1; 
     }
             
-    int a = fibonacci(n-1);   //fibo(n-1) fibo(1-1)=0
-    int b = fibonacci(n-2);   //fibo(3-2) //1
 
+    
+    a = fibonacci(n-1); 
+    b = fibonacci(n-2); 
+    
 
-    // result = 0 + 1 = 1
     int result = a + b; 
     
 
