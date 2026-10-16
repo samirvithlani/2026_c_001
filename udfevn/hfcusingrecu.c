@@ -29,7 +29,7 @@ void main()
 {
    
     int x;
-    x = hcf(15,25);
+    x = hcf(10,5);
     printf("\n x = %d",x);
     ///printf("\n %d",15%10);
     

@@ -1045,11 +1045,5 @@ HCF : 10,15 -->
 
 
 
-
-
-
-
-
-
-
+i have 10 mangos and i want to pack 3 mangos in each packets how many packets can be pack
 
