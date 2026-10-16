@@ -1047,3 +1047,37 @@ HCF : 10,15 -->
 
 i have 10 mangos and i want to pack 3 mangos in each packets how many packets can be pack
 
+print multiplicatio table if given no1
+
+void table(int n, int i){
+
+
+	printf()
+
+}
+
+
+table(5,1)
+
+5*1 = 5
+%*2 = 10
+
+...
+
+
+
+print all factors of no
+
+12
+1 2 3 4 6 12
+
+15
+1 3 5 15
+
+
+void factors(int n,int i){
+
+
+	factors()
+}
+
