@@ -1,0 +1,1 @@
+printf("\n after cahnge of b value of a = %d",a);
