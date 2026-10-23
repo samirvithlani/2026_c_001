@@ -11,7 +11,7 @@ void main()
 
     for(i=0;i<5;i++){
 
-        printf("\n value = %d",*p++);
+        printf("\n value = %d address = %u",*p++,p);
     }
 
    
