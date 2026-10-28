@@ -1081,3 +1081,40 @@ void factors(int n,int i){
 	factors()
 }
 
+<--------------------------------->
+
+
+
+
+
+1) take 2 numbers from user do sum:
+2) print 10 to 1 using for loop : 
+3) find sum of digit using while loop: 123 --> output is 6
+4) 
+
+*
+* *
+* * *
+* * * *
+* * * * *
+
+5)
+
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+
+6)
+* * * * *
+*       *
+*		*
+*		*
+* * * * *
+
+7)create array with 5 elemets and print it 
+8) create array with 5 elements get element from users and print it
+9) sum of an array with 5 elements
+10)find max from array
+11) decalre char array and print len of it.
