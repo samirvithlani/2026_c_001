@@ -1118,3 +1118,96 @@ void factors(int n,int i){
 9) sum of an array with 5 elements
 10)find max from array
 11) decalre char array and print len of it.
+
+
+
+
+function :
+def: function is block of code || function is collection of statements
+
+use:
+component devide  | chunk code:
+
+Bank application:
+main --> bank account op logic, withdraw,deposit,loan,locker,credit card,....otp | msg [1000],
+10,000 -->
+readblity decrese:
+debug hard:
+scale hard:
+
+problem solve:
+reusablity of code:
+readblity increse:
+scale increse
+
+c lang we have 2 type of functions:
+1st is built in functions : printf scanf,gets puts...
+2nd is user define function: 
+
+4 type of functions are there:
+1) without return type without argument
+2) without return type with argument/params
+3) with return type with arguments
+4) with return withdraw argument
+
+return type:
+when we call function and if function is return some values it is call return type:
+and we have to specify what kind / data type of value function is returning
+
+if we dont want to retun anythin retun type will be void
+"" ""  int valud...                        retun type will be int 
+
+argument | params:
+
+when we call function and while calling  a function we can provide value is para () it is call argument
+it can pass runtime and it has local scope:
+
+:signature:
+
+without return type without argument:
+void funName(){
+	//body...
+}
+
+without return type with argument:
+we can pass n number of argument
+
+void funName(int a,int b){}
+
+with return type with argument:
+eg:int
+
+int funName(int a){
+
+	return int type value
+}
+
+
+float funName(){
+
+	retun 3.14
+}
+
+
+
+
+create a function which takes 1 array as argument and size of an array as argumen
+void printArray(int a[],int size){}
+create a function which takes 1 array as argument and size of an array as argumen adn find max from array and print it.
+
+
+create a function which will take 1 number as param and return sum of digit:
+create a function which will take 1 number as param and return reverse numner:
+create a function which will take 1 array and size as param retun max number from array:
+
+menudriven calc :
+
+press 1 for add:
+press 2 sub sub:
+press 3 for exit:
+
+while(1)
+do while
+dont use goto start
+
+
