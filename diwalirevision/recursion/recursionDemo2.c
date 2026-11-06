@@ -8,7 +8,8 @@ void printNo(int no){
     }
 
     printNo(no-1);
-    printf("\n no = %d",no);
+    if(no%2==0)
+        printf("\n no = %d",no);
 
 
 }
