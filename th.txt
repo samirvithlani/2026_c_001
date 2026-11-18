@@ -1211,3 +1211,16 @@ do while
 dont use goto start
 
 
+//bank application:
+
+balance: main -->balance
+withdraw -->function
+withdraw(amount) -->logic
+
+withdraw(*balance,amount){
+
+	//logic
+}
+
+
+
