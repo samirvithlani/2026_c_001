@@ -1,1 +1,1 @@
-printf("\n after cahnge of b value of a = %d",a);
+printf("\n x = %d",x);
