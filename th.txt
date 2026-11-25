@@ -1234,3 +1234,8 @@ int *cr = &marks;
 updateMarks(&cr)
 
 
+
+structure:
+
+array: array is group of similar kind of elements
+structure:structure is group of diff kind of elements
