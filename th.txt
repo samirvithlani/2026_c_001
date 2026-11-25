@@ -1223,4 +1223,14 @@ withdraw(*balance,amount){
 }
 
 
+a teacher give marks to a student
+but give extra access rights to class monitor to update marks.
+
+updateMarks(**x)
+
+
+int *cr = &marks;
+
+updateMarks(&cr)
+
 
