@@ -1239,3 +1239,9 @@ structure:
 
 array: array is group of similar kind of elements
 structure:structure is group of diff kind of elements
+
+
+teacher has given marks to student
+teacher allows cr to update student marks
+
+updateMarks function 
