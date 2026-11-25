@@ -1245,3 +1245,21 @@ teacher has given marks to student
 teacher allows cr to update student marks
 
 updateMarks function 
+
+array is group of similar kid of element:
+structure is group of diff kind of element:
+
+id name email age status bgroup ...20
+
+print(int email,int age...){
+
+
+
+}
+
+main(){
+
+	20 dec...
+
+
+}
