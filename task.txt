@@ -217,3 +217,20 @@ x = 432
 
 create function pass array and its size --> return sum of an arrray
 
+
+
+27/11/2026
+
+ 1 employee id  =101
+ 1 employee Name  =raj
+ 1 employee salary  =1200.000000
+ 1 employee 1 incrmeent = 100
+ 1 employee 2 incrmeent = 100
+
+ total incrment of employee = 200
+ base salaryof employee = 1200 - 200 = 1000
+
+
+
+
+
